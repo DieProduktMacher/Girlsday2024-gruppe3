@@ -23,6 +23,10 @@ ul{
   margin-right: 200;
 }
 
+.inLinePics {
+  display: flex;
+  flex-direction: row;
+}
 
 .photo {
   text-align: center;
